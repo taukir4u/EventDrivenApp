@@ -1,0 +1,33 @@
+D:\ASD\EventDrivenApp\EventDrivenApp\bin\Debug\EventDrivenApp.exe
+D:\ASD\EventDrivenApp\EventDrivenApp\bin\Debug\EventDrivenApp.pdb
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.InputUI.resources
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.MainUI.resources
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.Properties.Resources.resources
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.ViewDetailsUI.resources
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.ViewTotalUI.resources
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.exe
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.pdb
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.csprojResolveAssemblyReference.cache
+D:\ASD\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.csproj.GenerateResource.Cache
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.exe
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.pdb
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\bin\Debug\EventDrivenApp.exe
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\bin\Debug\EventDrivenApp.pdb
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.csprojResolveAssemblyReference.cache
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.InputUI.resources
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.MainUI.resources
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.Properties.Resources.resources
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.ViewDetailsUI.resources
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.ViewTotalUI.resources
+E:\Design Principles and Patterns\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.csproj.GenerateResource.Cache
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.exe
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.pdb
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\bin\Debug\EventDrivenApp.exe
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\bin\Debug\EventDrivenApp.pdb
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.csprojResolveAssemblyReference.cache
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.InputUI.resources
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.MainUI.resources
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.Properties.Resources.resources
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.ViewDetailsUI.resources
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.ViewTotalUI.resources
+G:\21.04.2014\Day1\Day1\EventDrivenApp\EventDrivenApp\obj\x86\Debug\EventDrivenApp.csproj.GenerateResource.Cache
